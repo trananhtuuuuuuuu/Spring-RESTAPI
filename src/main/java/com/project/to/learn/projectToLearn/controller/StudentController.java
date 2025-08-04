@@ -11,7 +11,7 @@ import org.springframework.web.bind.annotation.RestController;
 
 import com.project.to.learn.projectToLearn.domain.Student;
 import com.project.to.learn.projectToLearn.exception.StudentNotFound;
-import com.project.to.learn.projectToLearn.service.student.StudentService;
+import com.project.to.learn.projectToLearn.service.interfaceService.StudentService;
 
 import lombok.AllArgsConstructor;
 

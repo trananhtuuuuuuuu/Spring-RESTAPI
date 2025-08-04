@@ -8,7 +8,7 @@ import org.springframework.stereotype.Service;
 
 import com.project.to.learn.projectToLearn.domain.Student;
 import com.project.to.learn.projectToLearn.repository.StudentRepository;
-import com.project.to.learn.projectToLearn.service.student.StudentService;
+import com.project.to.learn.projectToLearn.service.interfaceService.StudentService;
 
 
 @Service
